@@ -26,7 +26,8 @@ const menu = [
 const Restorent = () => {
   const [selectedCategory, setSelectedCategory] = useState();
   const [selectedFoodType, setSelectedFoodType] = useState("all");
-  
+  console.log('value',setSelectedCategory)
+  console.log('value',setSelectedFoodType)
 
   const handleFilter= (e)=>{
     console.log(e.target.value, e.target.name)

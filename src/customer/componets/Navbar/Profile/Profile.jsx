@@ -12,6 +12,7 @@ import Notification from './Notification'
 
 const Profile = () => {
   const [openSlider, setOpenSlider] = useState(false)
+  console.log('value', setOpenSlider)
   return (
     <div className='lg:flex justify-between'>
         <div className='skicky h-[80] lg:w-[20%]'>

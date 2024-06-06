@@ -5,7 +5,6 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import PersonIcon from '@mui/icons-material/Person';
 import { Box, IconButton, Menu, MenuItem } from '@mui/material';
 import './Navbar.css'
-// import { SpaRounded } from '@mui/icons-material';
 
 
 const Navbar = () => {
