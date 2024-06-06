@@ -1,0 +1,77 @@
+
+
+export const Restorant = [
+    {
+    imageUrl :"https://images.pexels.com/photos/6959861/pexels-photo-6959861.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200",
+    name :"Maharaja",
+    rating :"4",
+    city :"Mumbai",
+    description :"Veg And Non Veg Food",
+    id : "1",
+    },
+    {
+    imageUrl :"https://images.pexels.com/photos/1581554/pexels-photo-1581554.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    name :"Pabalo",
+    rating :"4",
+    city :"Mumbai",
+    description :"Veg And Non Veg Food",
+    id : "2",
+    },
+    {
+    imageUrl :"https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    name :"Kohinoor",
+    rating :"4",
+    city :"Mumbai",
+    description :"Veg And Non Veg Food",
+    id : "3",
+    },
+    {
+    imageUrl :"https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    name :"Aarya",
+    rating :"4",
+    city :"Mumbai",
+    "description" :"Veg And Non Veg Food",
+    id : "4",
+    },
+    {
+    imageUrl :"https://images.pexels.com/photos/239975/pexels-photo-239975.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    name :"Silver Palace",
+   rating :"5",
+   city :"Mumbai",
+    description :"Veg And Non Veg Food",
+    id : "5",
+    },
+    {
+    imageUrl :"https://images.pexels.com/photos/2290753/pexels-photo-2290753.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    name :"Taj",
+    rating :"5",
+    city :"Mumbai",
+    description :"Veg And Non Veg Food",
+    id : "6",
+    },
+    {
+    imageUrl :"https://images.pexels.com/photos/3887985/pexels-photo-3887985.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    name :"Shalimar",
+    rating :"4",
+    city :"Mumbai",
+    description :"Veg And Non Veg Food",
+    id : "7",
+    },
+    {
+    imageUrl :"https://images.pexels.com/photos/4253317/pexels-photo-4253317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    name :"Kokani Darbar",
+    rating :"4",
+    city :"Mumbai",
+    description :"Veg And Non Veg Food",
+    id : "8",
+    },
+    {
+    imageUrl :"https://images.pexels.com/photos/1449775/pexels-photo-1449775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    name :"Fule Station",
+    rating :"4",
+    city :"Mumbai",
+    description :"Veg And Non Veg Food",
+    id : "9",
+    },
+    
+]
